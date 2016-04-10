@@ -1,5 +1,7 @@
 # kvm_install_openbsd
 
+Makefile for Linux Debian KVM Hosts to create/boot OpenBSD Guest
+
 # Licence:
 
 Since i copy and modified this makefile from the fine daemonforums.org
